@@ -16,3 +16,7 @@ body {
 main {
     display: inline-block;
 }
+
+.pokedex {
+    min-width: 100vw;
+}
