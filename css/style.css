@@ -10,13 +10,9 @@
 body {
     text-align: center;
     background: linear-gradient(to bottom right, #36c8f5, #ffffff);
+    min-height: 100vh;
 }
 
 main {
     display: inline-block;
-    max-height: 100vh;
-}
-
-.pokedex {
-    height: 100%;
 }
